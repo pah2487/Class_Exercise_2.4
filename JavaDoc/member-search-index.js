@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"STRANG","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"<Unnamed>","c":"STRANGBUFFBUILD","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"<Unnamed>","c":"STRANG","l":"STRANG()"},{"p":"<Unnamed>","c":"STRANGBUFFBUILD","l":"STRANGBUFFBUILD()"}]
